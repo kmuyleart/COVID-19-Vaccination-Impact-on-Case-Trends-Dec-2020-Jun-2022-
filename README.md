@@ -43,4 +43,3 @@ A **70% fully vaccinated** benchmark was used, in line with the **World Health O
 
 ---
 
-## 🗂 Repo Structure
