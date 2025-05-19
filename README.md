@@ -1,1 +1,1 @@
-# COVID-19-Vaccination-Impact-on-Case-Trends-Dec-2020-Jun-2022-
+# COVID-19 Vaccination Impact Analysis (Dec 2020 - Jun 2022)
