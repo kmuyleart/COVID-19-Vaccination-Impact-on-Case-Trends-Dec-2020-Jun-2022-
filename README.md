@@ -61,12 +61,14 @@ A **70% fully vaccinated** threshold was used, based on **WHO** recommendations 
 
 ## 📂 File Descriptions
 
-| File Name                | Description                           |  
-|--------------------------|---------------------------------------|  
-| `SQL Scripts`            | Full table creation and join queries  |  
-| `README.md`              | Project documentation (this file)     |  
-| `covid_joined.csv`       | Final dataset used for Power BI import|  
-| `powerbi_dashboard.pbix' | Interactive visual report             |
+| File Name                     | Description                               |
+|-------------------------------|-------------------------------------------|
+| `SQL Scripts`                 | SQL queries for table creation and joins  |
+| `README.md`                   | Project documentation (this file)         |
+| `covid_joined.xlsx`           | Final cleaned dataset for Power BI import |
+| `covid_cases_raw.xlsx`        | Raw COVID-19 case data                    |
+| `covid_vaccinations_raw.xlsx` | Raw vaccination data                      |
+| `powerbi_dashboard.pbix`      | Power BI interactive report/dashboard     |
 
 ---
 
