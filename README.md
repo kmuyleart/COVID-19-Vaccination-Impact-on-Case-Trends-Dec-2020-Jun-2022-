@@ -20,7 +20,7 @@ The analysis starts on **December 17, 2020**, when COVID-19 vaccines first rolle
   Built interactive dashboards and visualizations; applied DAX calculations and slicers.  
 - **Data Sources**  
   - [CDC Case Surveillance](https://data.cdc.gov/)  
-  - [CDC Vaccination Data](https://github.com/CDCgov/)  
+  - [CDC Vaccination Data (CSV)](https://data.cdc.gov/api/views/unsk-b7fc/rows.csv?accessType=DOWNLOAD)  
   - [U.S. Census Bureau](https://www.census.gov/)
 
 ---
